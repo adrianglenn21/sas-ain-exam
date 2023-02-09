@@ -1,0 +1,14 @@
+Summary Report For Credit Cards 
+
+Credit Card Type    Num. of Cards          Percentage
+American Express         93                      9.3%
+Bank of America          89                      8.9%
+Capital One              96                      9.6%
+Chase                    82                      8.2%
+Citibank                 93                      9.3%
+Discover                 89                      8.9%
+Maestro                 104                     10.4%
+MasterCard               87                      8.7%
+UnionPay                 86                      8.6%
+Visa                     96                      9.6%
+Wells Fargo              85                      8.5%
